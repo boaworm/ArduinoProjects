@@ -9,3 +9,5 @@ Adds two new features to the standard Rocket Launcher.
 * Pushing "OK" will fire 1 as normal
 * Pushing Hash/# will fire the set amount of rockets (roughly, timetimes plus/minus one)
 * The 7-segment display will show how many rockets will be fired when hitting Hash/#
+Youtube video demo : https://youtube.com/shorts/sknufvNVhz0
+
